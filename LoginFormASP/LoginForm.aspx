@@ -9,7 +9,7 @@
 <body>
     <div class="loginBox">
         <img src="lg2.png" alt="Alternate Text" class="user"/>
-        <h2>LOG IN HERE</h2>
+        <h2>PLEASE LOG IN HERE</h2>
             <form id="form1" runat="server">
                 <asp:Label Text="Email" CssClass="lblemail" runat="server"/>
                 <asp:TextBox runat="server" CssClass="txtemail" placeholder="Enter Email"/>
